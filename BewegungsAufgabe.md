@@ -15,7 +15,7 @@ Zeit \( t \), die benötigt wird, um die Strecke zurückzulegen.
 
 Um die Zeit \( t \) zu berechnen, verwenden wir die allgemeine Formel der gleichmäßig beschleunigten Bewegung:
 
-\[ s = v_0 \cdot t + \frac{1}{2} \cdot a \cdot t^2 \]
+\[ s=v0​⋅t+21​⋅a⋅t2]
 
 #### Schritt-für-Schritt-Lösung:
 
