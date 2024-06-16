@@ -5,33 +5,13 @@ Die Trigonometrie ist ein Bereich der Mathematik, der sich mit den Beziehungen u
 ## Trigonometrische Funktionen
 
 - **Sinus (sin)**:
-  \[ \sin \theta = \frac{\text{Gegenkathete}}{\text{Hypotenuse}} \]
+  GegenKathete/Hypotenuse
 
 - **Kosinus (cos)**:
-  \[ \cos \theta = \frac{\text{Ankathete}}{\text{Hypotenuse}} \]
+  Ankathete/Hypothenuse
 
 - **Tangens (tan)**:
-  \[ \tan \theta = \frac{\text{Gegenkathete}}{\text{Ankathete}} \]
-
-- **Kotangens (cot)**:
-  \[ \cot \theta = \frac{\text{Ankathete}}{\text{Gegenkathete}} = \frac{1}{\tan \theta} \]
-
-- **Sekans (sec)**:
-  \[ \sec \theta = \frac{\text{Hypotenuse}}{\text{Ankathete}} = \frac{1}{\cos \theta} \]
-
-- **Kosekans (csc)**:
-  \[ \csc \theta = \frac{\text{Hypotenuse}}{\text{Gegenkathete}} = \frac{1}{\sin \theta} \]
-
-## Trigonometrische Identitäten
-
-- **Pythagoreische Identitäten**:
-  \[ \sin^2 \theta + \cos^2 \theta = 1 \]
-  \[ 1 + \tan^2 \theta = \sec^2 \theta \]
-  \[ 1 + \cot^2 \theta = \csc^2 \theta \]
-
-- **Additionstheoreme**:
-  \[ \sin(A \pm B) = \sin A \cos B \pm \cos A \sin B \]
-  \[ \cos(A \pm B) = \cos A \cos B \mp \sin A \sin B \]
+  Ankathete/GegenKatethe
 
 ## Anwendungen
 
