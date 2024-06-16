@@ -32,7 +32,7 @@ Um die Zeit \( t \) zu berechnen, verwenden wir die allgemeine Formel der gleich
 
 Die allgemeine Formel für Bewegungsaufgaben, die sowohl für gleichförmige als auch für gleichmäßig beschleunigte Bewegungen gilt:
 
-\[ s = v_0 \cdot t + \frac{1}{2} \cdot a \cdot t^2 \]
+\[ s = v0 * t + 21​ * a * t² \]
 
 Hierbei sind:
 - \( s \): Strecke (in km oder m)
